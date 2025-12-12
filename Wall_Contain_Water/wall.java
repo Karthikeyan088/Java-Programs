@@ -1,5 +1,3 @@
-package Wall_Contain_Water;
-
 public class wall
 {
     public static void main(String[]arg)
