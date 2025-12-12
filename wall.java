@@ -2,7 +2,8 @@ public class wall
 {
     public static void main(String[]arg)
     {
-        System.out.println("hello");
+        int[]wall={0,3,5,8,2,6,9};
+        
 
     }
 }
