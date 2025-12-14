@@ -12,7 +12,6 @@ public class wall
             int leng=min(wall[p1],wall[p2]);
             int brd=p2-p1;
             int tot=leng*brd;
-            //   System.err.println(tot);
             if(tot>max)
             {
                 max=tot;
