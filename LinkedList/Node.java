@@ -1,4 +1,3 @@
-package Java_Programs.LinkedList;
 
 public class Node {
     int data;
